@@ -53,7 +53,7 @@
 
 
       .business_info_left {
-        flex-basis: 60%;
+        flex-basis: 90%;
         margin: auto;
         margin-bottom: 5rem;
     }
@@ -94,6 +94,14 @@
 
     .footerWrapper p {
         font-size: 2rem;
+    }
+
+    #project h2 {
+        text-align: center;
+    }
+
+    .top_menu_left p {
+        font-size: 1rem;
     }
 
 
